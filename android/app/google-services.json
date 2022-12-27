@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21547449458",
+    "project_id": "finalcrypto-2d7af",
+    "storage_bucket": "finalcrypto-2d7af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21547449458:android:a780e1a0ddb6a2272556eb",
+        "android_client_info": {
+          "package_name": "com.example.clean_arch_udemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21547449458-nv8b2pir9c2am63scd3nhujrns1e0th2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdNp9T_zXvHBjfPCqbPWR3G3aH5EGsuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21547449458-nv8b2pir9c2am63scd3nhujrns1e0th2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
